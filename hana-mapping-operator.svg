@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="528"
+   viewBox="0 0 800 528"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="hana-mapping-operator.svg"
+   inkscape:export-filename="hc-instance-mapping-operator.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="513.49999"
+     inkscape:cy="440.49999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker34"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, heavy arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path34" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.40712;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.81425, 2.81425"
+       id="rect1"
+       width="800"
+       height="528"
+       x="0"
+       y="0"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="clusters"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g26"
+       transform="translate(192,-24)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect20"
+         width="176"
+         height="144"
+         x="416"
+         y="40" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="424"
+         y="56"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           x="424"
+           y="56">HANA Cloud landscape</tspan></text>
+    </g>
+    <g
+       id="g27"
+       transform="translate(184,-24)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect21"
+         width="160"
+         height="192"
+         x="192"
+         y="40" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="200"
+         y="56"
+         id="text24"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           x="200"
+           y="56">BTP</tspan></text>
+    </g>
+    <g
+       id="g28"
+       transform="translate(-16,24)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect19"
+         width="768"
+         height="272"
+         x="32"
+         y="216" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start"
+         x="40"
+         y="232"
+         id="text27"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           x="40"
+           y="232">kyma cluster</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="components"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g5"
+       transform="translate(-240,104)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3"
+         width="216"
+         height="24"
+         x="272"
+         y="176"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text3"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan4">serviceinstance CR (hc instance)</tspan></text>
+    </g>
+    <g
+       id="g6"
+       transform="translate(-240.33304,176)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5"
+         width="215.99997"
+         height="24"
+         x="272.33304"
+         y="176"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text5"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan5">serviceinstance CR (admin-api)</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(-240,216)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6"
+         width="216"
+         height="24"
+         x="272"
+         y="176"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text6"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan6">servicebinding CR (admin-api)</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(168,216)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7"
+         width="168"
+         height="24"
+         x="272"
+         y="176"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text7"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan7">secret (admin-api)</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(-240,288)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8"
+         width="216"
+         height="24"
+         x="272"
+         y="176"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text8"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan9">serviceinstance CR (hdi/schema)</tspan></text>
+    </g>
+    <g
+       id="g11"
+       transform="translate(232,40)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2"
+         width="128"
+         height="224"
+         x="48"
+         y="232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="56"
+         y="248"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           x="56"
+           y="248">BTP service</tspan><tspan
+           sodipodi:role="line"
+           x="56"
+           y="264.66663"
+           id="tspan12">operator</tspan></text>
+    </g>
+    <g
+       id="g12"
+       transform="translate(592,40)">
+      <rect
+         style="fill:#d4e8d4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11"
+         width="128"
+         height="152"
+         x="48"
+         y="232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="56"
+         y="248"
+         id="text12"><tspan
+           sodipodi:role="line"
+           x="56"
+           y="248"
+           id="tspan13">HANA mapping</tspan><tspan
+           sodipodi:role="line"
+           x="56"
+           y="264.66663"
+           id="tspan10">operator</tspan></text>
+    </g>
+    <g
+       id="g14"
+       transform="translate(368,296)">
+      <rect
+         style="fill:#d4e8d4;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect13"
+         width="128"
+         height="24"
+         x="272"
+         y="176"
+         ry="11.646446" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text14"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan14">hanamapping CR</tspan></text>
+    </g>
+    <g
+       id="g16"
+       transform="translate(344,-120)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect14"
+         width="128"
+         height="32"
+         x="48"
+         y="232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="56"
+         y="248"
+         id="text16"><tspan
+           sodipodi:role="line"
+           x="56"
+           y="248"
+           id="tspan16">service manager</tspan></text>
+    </g>
+    <g
+       id="g17"
+       transform="translate(576,-120)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect17"
+         width="144"
+         height="32"
+         x="48"
+         y="232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="56"
+         y="248"
+         id="text17"><tspan
+           sodipodi:role="line"
+           x="56"
+           y="248"
+           id="tspan17">inventory service</tspan></text>
+    </g>
+    <g
+       id="g18"
+       transform="translate(400,-72)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect18"
+         width="128"
+         height="32"
+         x="-8"
+         y="232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="0"
+         y="248"
+         id="text18"><tspan
+           sodipodi:role="line"
+           x="0"
+           y="248"
+           id="tspan18">xsuaa</tspan></text>
+    </g>
+    <g
+       id="g25"
+       transform="translate(576,-168)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect24"
+         width="144"
+         height="32"
+         x="48"
+         y="232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="56"
+         y="248"
+         id="text25"><tspan
+           sodipodi:role="line"
+           x="56"
+           y="248"
+           id="tspan25">HANA Cloud instance</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(168,104)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4"
+         width="168"
+         height="24"
+         x="272"
+         y="176"
+         ry="12" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="280"
+         y="192"
+         id="text9"><tspan
+           sodipodi:role="line"
+           x="280"
+           y="192"
+           id="tspan8">configmap (cluster-id)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 248,292 h 30"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 248,364 h 30"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 248,404 h 30"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 248,476 h 30"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="M 440,292 H 410"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 408,404 h 30"
+       id="path7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 608,292 h 30"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="m 608,404 h 30"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker34)"
+       d="M 704,472 V 426"
+       id="path10" />
+    <g
+       id="g13">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="M 704,272 V 144"
+         id="path11"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g40"
+         transform="translate(584,56)">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+           id="circle39"
+           cx="120"
+           cy="152"
+           r="8" />
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 136,143 4,8 -8,-0.0625 z"
+           id="path40"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline"
+           x="136"
+           y="161"
+           id="text40"><tspan
+             sodipodi:role="line"
+             id="tspan40"
+             x="136"
+             y="161">R</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="M 671.50001,272 672,180 c 0,-2 -2,-4 -4,-4 H 520"
+         id="path12"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g19"
+         transform="translate(0,8)">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+           id="circle13"
+           cx="672"
+           cy="200"
+           r="8" />
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 656,191 4,8 -8,-0.0625 z"
+           id="path14"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline"
+           x="656"
+           y="209"
+           id="text15"><tspan
+             sodipodi:role="line"
+             id="tspan15"
+             x="656"
+             y="209">R</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         d="M 344,272 V 132 c 0,-2.00287 2,-4 4,-4 h 44"
+         id="path13"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g21"
+         transform="translate(-328,8)">
+        <circle
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+           id="circle19"
+           cx="672"
+           cy="200"
+           r="8" />
+        <path
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 656,191 4,8 -8,-0.0625 z"
+           id="path19"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;display:inline"
+           x="656"
+           y="209"
+           id="text19"><tspan
+             sodipodi:role="line"
+             id="tspan19"
+             x="656"
+             y="209">R</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="flow"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g42"
+       transform="translate(-192.5,40)">
+      <circle
+         style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path42"
+         cx="224"
+         cy="232"
+         r="8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         x="224"
+         y="237"
+         id="text42"><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           x="224"
+           y="237">1</tspan></text>
+    </g>
+    <g
+       id="g43"
+       transform="translate(-192,112)">
+      <circle
+         style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle42"
+         cx="224"
+         cy="232"
+         r="8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         x="224"
+         y="237"
+         id="text43"><tspan
+           sodipodi:role="line"
+           id="tspan43"
+           x="224"
+           y="237">2</tspan></text>
+    </g>
+    <g
+       id="g44"
+       transform="translate(-192,224)">
+      <circle
+         style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle43"
+         cx="224"
+         cy="232"
+         r="8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         x="224"
+         y="237"
+         id="text44"><tspan
+           sodipodi:role="line"
+           id="tspan44"
+           x="224"
+           y="237">4</tspan></text>
+    </g>
+    <g
+       id="g45"
+       transform="translate(416,232)">
+      <circle
+         style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle44"
+         cx="224"
+         cy="232"
+         r="8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         x="224"
+         y="237"
+         id="text45"><tspan
+           sodipodi:role="line"
+           id="tspan45"
+           x="224"
+           y="237">3</tspan></text>
+    </g>
+    <g
+       id="g1"
+       transform="translate(-448,-392)">
+      <g
+         id="g46"
+         transform="translate(248,208)">
+        <circle
+           style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle45"
+           cx="224"
+           cy="232"
+           r="8" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           x="224"
+           y="237"
+           id="text46"><tspan
+             sodipodi:role="line"
+             id="tspan46"
+             x="224"
+             y="237">2</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="484"
+         y="444"
+         id="text50"><tspan
+           sodipodi:role="line"
+           id="tspan50"
+           x="484"
+           y="444">create HANA Cloud admin-api-access</tspan></text>
+    </g>
+    <g
+       id="g2"
+       transform="translate(-448,-440)">
+      <g
+         id="g47"
+         transform="translate(248,232)">
+        <circle
+           style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle46"
+           cx="224"
+           cy="232"
+           r="8" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           x="224"
+           y="237"
+           id="text47"><tspan
+             sodipodi:role="line"
+             id="tspan47"
+             x="224"
+             y="237">1</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="484"
+         y="468"
+         id="text51"><tspan
+           sodipodi:role="line"
+           id="tspan51"
+           x="484"
+           y="468">create HANA Cloud instance</tspan></text>
+    </g>
+    <g
+       id="g20"
+       transform="translate(0,-64)">
+      <g
+         id="g48"
+         transform="translate(-200,-96)">
+        <circle
+           style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle47"
+           cx="224"
+           cy="232"
+           r="8" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           x="224"
+           y="237"
+           id="text48"><tspan
+             sodipodi:role="line"
+             id="tspan48"
+             x="224"
+             y="237">3</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+         x="36"
+         y="138.76042"
+         id="text52"><tspan
+           sodipodi:role="line"
+           x="36"
+           y="138.76042"
+           id="tspan1">map HANA Cloud instance to kyma cluster/namespace</tspan></text>
+    </g>
+    <g
+       id="g49"
+       transform="translate(-200,-136)">
+      <circle
+         style="fill:#2196f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle48"
+         cx="224"
+         cy="232"
+         r="8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         x="224"
+         y="237"
+         id="text49"><tspan
+           sodipodi:role="line"
+           id="tspan49"
+           x="224"
+           y="237">4</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial"
+       x="36"
+       y="99.817719"
+       id="text53"><tspan
+         sodipodi:role="line"
+         x="36"
+         y="99.817719"
+         id="tspan2">create hdi container or schema in the HANA Cloud instance</tspan></text>
+  </g>
+</svg>

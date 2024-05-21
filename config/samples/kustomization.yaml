@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- hana_v1_hanamapping.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples

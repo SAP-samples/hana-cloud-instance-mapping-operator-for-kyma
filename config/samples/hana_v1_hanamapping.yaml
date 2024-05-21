@@ -1,0 +1,14 @@
+apiVersion: hana.cloud.sap.com/v1
+kind: HANAMapping
+metadata:
+  name: hanamapping-sample
+spec:
+  btpOperatorConfigmap:
+    namespace: kyma-system
+    name: sap-btp-operator-config
+  adminAPIAccessSecret:
+    namespace: my-namespace
+    name: my-admin-secret
+  mapping:
+    serviceInstanceID: cf923d7d-7661-48f2-aaa2-d4dbb151a708
+    targetNamespace: my-namespace
