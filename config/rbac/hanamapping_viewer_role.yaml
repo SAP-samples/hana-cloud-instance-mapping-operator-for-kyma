@@ -1,0 +1,27 @@
+# permissions for end users to view hanamappings.
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  labels:
+    app.kubernetes.io/name: clusterrole
+    app.kubernetes.io/instance: hanamapping-viewer-role
+    app.kubernetes.io/component: rbac
+    app.kubernetes.io/created-by: hana-mapping-operator
+    app.kubernetes.io/part-of: hana-mapping-operator
+    app.kubernetes.io/managed-by: kustomize
+  name: hanamapping-viewer-role
+rules:
+- apiGroups:
+  - hana.cloud.sap.com
+  resources:
+  - hanamappings
+  verbs:
+  - get
+  - list
+  - watch
+- apiGroups:
+  - hana.cloud.sap.com
+  resources:
+  - hanamappings/status
+  verbs:
+  - get

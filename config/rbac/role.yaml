@@ -1,0 +1,48 @@
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: manager-role
+rules:
+- apiGroups:
+  - ""
+  resources:
+  - configmaps
+  verbs:
+  - get
+  - list
+  - watch
+- apiGroups:
+  - ""
+  resources:
+  - secrets
+  verbs:
+  - get
+  - list
+  - watch
+- apiGroups:
+  - hana.cloud.sap.com
+  resources:
+  - hanamappings
+  verbs:
+  - create
+  - delete
+  - get
+  - list
+  - patch
+  - update
+  - watch
+- apiGroups:
+  - hana.cloud.sap.com
+  resources:
+  - hanamappings/finalizers
+  verbs:
+  - update
+- apiGroups:
+  - hana.cloud.sap.com
+  resources:
+  - hanamappings/status
+  verbs:
+  - get
+  - patch
+  - update
