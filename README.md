@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-cloud-instance-mapping-operator-for-kyma)](https://api.reuse.software/info/github.com/SAP-samples/hana-cloud-instance-mapping-operator-for-kyma)
+
 # HANA Cloud Instance Mapping Operator for Kyma
 HANA Cloud Instance Mapping Operator automates the HANA Cloud database mapping to a Kyma namespace.
 
